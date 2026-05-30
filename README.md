@@ -1,4 +1,4 @@
-# Heart Disease Dataset — Data Preprocessing
+# Heart Disease Dataset — Data Cleaning And Preprocessing
 
 ## Overview
 This project performs exploratory data analysis (EDA) and data preprocessing on the Heart Disease dataset. The goal is to clean, transform, and prepare the data for machine learning model training.
